@@ -4,7 +4,7 @@ let mainContent = document.getElementById("main-content");
 
 let abelyana = document.getElementById("abelyana");
 let abelyanaMusic = document.getElementById("abelyanaMusic");
-abelyanaMusix.pause();
+abelyanaMusic.pause();
 
 proceedButton.addEventListener("click", event =>{
     startPage.style.opacity = '0';
